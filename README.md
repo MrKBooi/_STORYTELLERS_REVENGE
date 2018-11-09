@@ -1,4 +1,4 @@
-# _STORYTELLERS_REVENGE
+# _IcelandVRTour
 
 Udacity Term 3 Project // by _Khanyiso_Booi
 
